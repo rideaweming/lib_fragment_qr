@@ -1,0 +1,2 @@
+# lib_fragment_qr
+lib_qrcode_in_fragment
